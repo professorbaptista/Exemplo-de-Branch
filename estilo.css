@@ -67,3 +67,17 @@ article p{
     text-align: justify;
     text-indent: 50px;
 }
+
+footer{
+    background-color: rgb(169, 119, 217);
+    height: 100px;
+}
+
+footer h3{
+    color: white;
+    text-align: center;
+}
+
+footer p{
+    text-align: center;
+}
