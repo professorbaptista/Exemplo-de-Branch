@@ -15,6 +15,7 @@ main{
     background-color: white;
     width: 700px;
     margin: auto;
+    padding: 12px;
 }
 
 header{
@@ -26,7 +27,7 @@ ul{
     list-style-type: none;
     justify-content: space-between;
     display: flex;
-    font-size: 1.6em;
+    font-size: 1.4em;
 }
 
 li a{
@@ -37,12 +38,14 @@ li a{
 
 li a:hover{
     color: rgb(153, 211, 66);
-    font-size: .8em;
+    font-size: .6em;
 }
 
-article h1{
+article h2{
     color: rgb(0, 0, 255);
     text-align: center;
+    font-size: 1.4em;
+    background-color: rgb(96, 113, 128);
 }
 
 article p{
