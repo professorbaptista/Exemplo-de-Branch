@@ -1,12 +1,7 @@
 
 
-function carregar(){
-    var cor =document.getElementById('corpo')
-    cor.style.backgroundColor = 'black'
-}
-
-function text (){
+function carregarTexto(){
     var texto = document.getElementById('text')
-    texto.innerText = 'Veja Bem-Vindo'
-
+    texto.innerText = 'Casa'
 }
+
