@@ -1,7 +1,7 @@
 
 
 function carregarTexto(){
-    var texto = document.querySelector('#text')
+    var texto = document.getElementById('text')
     texto.innerText = 'Casa'
 }
 
